@@ -87,7 +87,7 @@ doAsync {
     }
 }
 ```
-See the [example](/app).
+See the [example](/XellularExample/src/main/java/com/sahajr/xellularexample/MainActivity.kt#L30).
 
 ## Todos
 - [ ] Add support for custom cell styles
