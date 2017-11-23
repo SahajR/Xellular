@@ -60,7 +60,7 @@ allprojects {
 And then in your app gradle config add:
 ```gradle
 dependencies {
-    compile 'com.github.SahajR:Xellular:0.2.0'
+    implementation 'com.github.SahajR:Xellular:0.2.0'
 }
 ```
 Once you sync your project, you need to add this line in your code as early as possible. Preferably in `onCreate` of your Application.
